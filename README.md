@@ -1,7 +1,5 @@
 # Welcome
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=trigoporres/trigoporres)
-
 Hi, I'm Santiago Trigo Porres, I'm a web developer, currently working at Devo. I work in the big data world, creating graphics for data representation. In my free time I study computer engineering.
 
 ### Contributing to open source projects:
