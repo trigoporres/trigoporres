@@ -2,10 +2,6 @@
 
 Hi, I'm Santiago Trigo Porres, I'm a web developer, currently working at Devo. I work in the big data world, creating graphics for data representation. In my free time I study computer engineering.
 
-## Blog
-
-- [itnasBlog](https://trigoporres.github.io/itnasBlog/)
-
 ### Contributing to open source projects:
 
 - [Dislearning](https://github.com/dislearning)
