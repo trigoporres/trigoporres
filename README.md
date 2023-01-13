@@ -1,14 +1,15 @@
+![Social banner](./assets/cabecera1.png)
 # Welcome
 
 Hi, I'm Santiago Trigo Porres, I'm a web developer, currently working at Devo. I work in the big data world, creating graphics for data representation. In my free time I study computer engineering.
 
-### Contributing to open source projects:
+## ⚡ Technologies
 
-- [Dislearning](https://github.com/dislearning)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-### ⚡ Technologies
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab) 
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
