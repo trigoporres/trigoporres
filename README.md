@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Santiago Trigo Porres
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Santiago Trigo Porres
 =============================================================================================================================================
 
 Fronted Developer
 -------------
 
-* 🌍  I'm based in madrid
-* ✉️  You can contact me at [santiagotrigoporres@gmail.om](mailto:santiagotrigoporres@gmail.om)
+* 🌍  I'm based in Madrid
+* ✉️  You can contact me at [santiagotrigoporres@gmail.com](mailto:santiagotrigoporres@gmail.com)
 * 🚀  I'm currently working on [Genesys ui](http://devoinc.github.io/genesys-ui/?path=/docs/getting-started-overview--docs)
 
 ### Skills
