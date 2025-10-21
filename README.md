@@ -1,12 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Santiago Trigo Porres
-=============================================================================================================================================
+# Hi, I'm Santiago Trigo 👋
 
-Frontend Developer
--------------
+I build web products with React and TypeScript. I enjoy creating fast, accessible, and maintainable interfaces.
 
-* 🌍  I'm based in Madrid
-* ✉️  You can contact me at [santiagotrigoporres@gmail.com](mailto:santiagotrigoporres@gmail.com)
-* 🚀  I'm currently working on [Genesys ui](http://devoinc.github.io/genesys-ui/?path=/docs/getting-started-overview--docs)
+## 🛠️ What I work with
+- React, TypeScript
+- Component-driven architectures
+- Testing (Jest, React Testing Library)
+- Design systems and accessibility
+
+## 🎯 What I'm currently exploring
+Integrating AI into frontend development workflows (code generation tools, component optimization, etc.)
+
 
 ### Skills
 
